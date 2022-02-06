@@ -12,4 +12,5 @@ while attempts <= 3:
     else:
         print('correct')
         break
+print("Alice was here trying to Git push")
 
